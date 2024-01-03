@@ -52,7 +52,7 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
             Observer(builder: (context) {
               return Text(
-                '${counter.value}',
+                '${counter.count}',
                 style: Theme.of(context).textTheme.headlineMedium,
               );
             })

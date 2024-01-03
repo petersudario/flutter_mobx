@@ -348,7 +348,7 @@ packages:
     source: hosted
     version: "2.3.0"
   mobx_codegen:
-    dependency: "direct main"
+    dependency: "direct dev"
     description:
       name: mobx_codegen
       sha256: c9f4be5a67b89f9b90d4c07a0dfa7c368072108061f74d9f09400fe7252cfb84
